@@ -1,9 +1,9 @@
 {
-  "name": "my-react-app",
+  "name": "game",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://ranjesh2002.github.io/game/",
   "type": "module",
-
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -12,7 +12,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://ranjesh2002.github.io/game",
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
